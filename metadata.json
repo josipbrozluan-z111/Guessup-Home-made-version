@@ -1,0 +1,8 @@
+{
+  "name": "Behind the Screen Guesser",
+  "description": "A cross-language word guessing game where players describe AI-generated secret topics in English, Finnish, or Vietnamese, avoiding forbidden words. Features AI topic generation and visual image clues.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
